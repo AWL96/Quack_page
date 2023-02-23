@@ -1,2 +1,2 @@
 # Quack info page
-Contains page with info about the project and an address to contact me at
+This repo hosts a webpage that provides (interested/investigative) network admins with important info about the Quack project
